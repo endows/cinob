@@ -1,0 +1,6 @@
+#!/bin/bash
+file=*
+for TXT in $(find .)
+do
+echo $TXT
+done
