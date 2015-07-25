@@ -1,6 +1,6 @@
 {
-  "name": "cinob",
-  "version": "1.0.3",
+  "name": "sinobi",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "preferGlobal": true,
   "bin": {
-    "cinob": "index.js"
+    "sinobi": "index.js"
   },
   "license": "ISC",
   "dependencies": {
